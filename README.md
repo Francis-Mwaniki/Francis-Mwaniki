@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Francis-Mwaniki
 - 👀 I’m a fronted web developer 
-- 🌱 I’m currently learning vue.js 
+- 🌱 I’m currently learning nuxt3.js 
 - 💞️ I’m looking to collaborate on open source projects
 - 📫 reach me via francismwaniki630@gmail.com
 
