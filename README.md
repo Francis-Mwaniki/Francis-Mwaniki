@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Francis mwaniki</h1>
 <h3 align="center">A passionate fullstack developer from Kenya</h3>
-<video src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/media/5387dc7e035b3efe9d94516044de66a4.gif" align="center"></video>
+<p align="center"><img src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/media/5387dc7e035b3efe9d94516044de66a4.gif"/></p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=francis-mwaniki&label=Profile%20views&color=0e75b6&style=flat" alt="francis-mwaniki" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=francis-mwaniki" alt="francis-mwaniki" /></a> </p>
@@ -31,5 +31,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=francis-mwaniki&show_icons=true&locale=en" alt="francis-mwaniki" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=francis-mwaniki&" alt="francis-mwaniki" /></p>
-<svg  data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 120" preserveAspectRatio="none" ><path  d="M321.39,56.44c58-10.79,114.16-30.13,172-41.86,82.39-16.72,168.19-17.73,250.45-.39C823.78,31,906.67,72,985.66,92.83c70.05,18.48,146.53,26.09,214.34,3V0H0V27.35A600.21,600.21,0,0,0,321.39,56.44Z" class="shape-fill" fill="#FFFFFF" fill-opacity="1"></path></svg>
-
+<p align="center"><svg  data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 120" preserveAspectRatio="none" ><path  d="M321.39,56.44c58-10.79,114.16-30.13,172-41.86,82.39-16.72,168.19-17.73,250.45-.39C823.78,31,906.67,72,985.66,92.83c70.05,18.48,146.53,26.09,214.34,3V0H0V27.35A600.21,600.21,0,0,0,321.39,56.44Z" class="shape-fill" fill="#FFFFFF" fill-opacity="1"></path></svg></p>
