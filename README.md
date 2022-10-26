@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [music](https://ephesus.onrender.com/)
 
-- 🌱 I’m currently learning **Nuxt3.js and pinia**
+- 🌱 I’m currently learning **Solidity.Blockchain ecosystem**
 
 - 👯 I’m looking to collaborate on **open source projects**
 
