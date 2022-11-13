@@ -8,8 +8,6 @@
 
 - 🔭 I’m currently working on [music](https://ephesus.onrender.com/)
 
-- 🌱 I’m currently learning **Solidity.Blockchain ecosystem**
-
 - 👯 I’m looking to collaborate on **open source projects**
 
 - 👨‍💻 All of my projects are available at [http://nuxt-portifolio.vercel.app/](http://nuxt-portifolio.vercel.app/)
