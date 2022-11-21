@@ -6,11 +6,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=francis-mwaniki" alt="francis-mwaniki" /></a> </p>
 
-- 🔭 I’m currently working on [music](https://ephesus.onrender.com/)
+- 🔭 I’m currently working on [portifolio](http://nuxt3-stable-portifolio.vercel.app/)
 
 - 👯 I’m looking to collaborate on **open source projects**
 
-- 👨‍💻 All of my projects are available at [http://nuxt-portifolio.vercel.app/](http://nuxt-portifolio.vercel.app/)
+- 👨‍💻 All of my projects are available at [http://nuxt3-stable-portifolio.vercel.app/)
 
 - 💬 Ask me about **vuejs,nuxtjs**
 
