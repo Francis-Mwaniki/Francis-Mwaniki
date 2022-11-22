@@ -10,7 +10,7 @@
 
 - 👯 I’m looking to collaborate on **open source projects**
 
-- 👨‍💻 All of my projects are available at [http://nuxt3-stable-portifolio.vercel.app/)
+- 👨‍💻 All of my projects are available at [https://francis-mwaniki.vercel.app/])
 
 - 💬 Ask me about **vuejs,nuxtjs**
 
