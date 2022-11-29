@@ -12,7 +12,7 @@
 
 - 👨‍💻 All of my projects are available at https://francis-mwaniki.vercel.app/
 
-- 💬 Ask me about **vuejs,nuxtjs**
+- 💬 Ask me about **vuejs, nuxtjs, supabase**
 
 - 📫 How to reach me **francismwaniki630@gmail.com**
 
