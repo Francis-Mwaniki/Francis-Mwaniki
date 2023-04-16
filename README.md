@@ -1,4 +1,7 @@
-<img scr="./Header.svg" />
+<p align="center">
+<img src="Header.svg" />
+</p>
+<br/>
 # 💫 About Me:
 🔭 I’m currently working on python-django-project<br>👯 I’m looking to collaborate on open source project<br>🤝 I’m looking for help with learning new things<br>🌱 I’m currently learning python for django<br>💬 Ask me about nuxt3, vue,supabase<br>⚡ Fun fact -Introverted
 
