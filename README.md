@@ -25,7 +25,7 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
 
-![Snake animation](https://github.com/Francis-Mwaniki/Francis-Mwaniki/blob/output/github-contribution-grid-snake.svg)                                    
+![Snake animation](https://github.com/kimitawanjohi/kimitawanjohi/raw/output/github-contribution-grid-snake.svg)                                    
 
 [![](https://visitcount.itsvg.in/api?id=Francis-Mwaniki&label=Profile%20Views&color=1&icon=3&pretty=true)](https://visitcount.itsvg.in)
 ---
