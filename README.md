@@ -27,7 +27,7 @@
 
 ![Snake animation](https://github.com/kimitawanjohi/kimitawanjohi/raw/output/github-contribution-grid-snake.svg)                                    
 
-[![](https://visitcount.itsvg.in/api?id=Francis-Mwaniki&label=Profile%20Views&color=1&icon=3&pretty=true)](https://visitcount.itsvg.in)
+ 
 ---
 [![](https://visitcount.itsvg.in/api?id=Francis-Mwaniki&icon=2&color=0)](https://visitcount.itsvg.in)
 
