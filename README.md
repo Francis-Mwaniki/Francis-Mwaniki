@@ -6,6 +6,10 @@
 # 💫 About Me:
 🔭 I’m currently working on python-django-project<br>👯 I’m looking to collaborate on open source project<br>🤝 I’m looking for help with learning new things<br>🌱 I’m currently learning python for django<br>💬 Ask me about nuxt3, vue,supabase<br>⚡ Fun fact -Introverted
 
+<a href="https://cloud.appwrite.io/card/6493f85b1fab09971d97">
+	<img width="350" src="https://cloud.appwrite.io/v1/cards/cloud?userId=6493f85b1fab09971d97" alt="Appwrite Cloud Card" />
+</a>
+
 ## 🌐 Socials:
 [![Github](https://img.shields.io/badge/Github-1769ff?logo=github&logoColor=white)](https://github.com/Francis-Mwaniki/Francis-Mwaniki/) 
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://web.facebook.com/profile.php?id=100073476542957) 
