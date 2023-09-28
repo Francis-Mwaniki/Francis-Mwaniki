@@ -4,7 +4,7 @@
 
 
 # 💫 About Me:
-🔭 I’m currently working on python-django-project<br>👯 I’m looking to collaborate on open source project<br>🤝 I’m looking for help with learning new things<br>🌱 I’m currently learning python for django<br>💬 Ask me about nuxt3, vue,supabase<br>⚡ Fun fact -Introverted
+🔭 I’m currently working on something cool..<br>👯 I’m looking to collaborate on open source project<br>🤝 I’m looking for help with learning new things<br>🌱 I’m currently learning new tech<br>💬 Ask me about nuxt3, vue,supabase and more tech related stuffs<br>⚡ Fun fact -Yet exploring...😂😂😂
 
 <a href="https://cloud.appwrite.io/card/6493f85b1fab09971d97">
 	<img width="350" src="https://cloud.appwrite.io/v1/cards/cloud?userId=6493f85b1fab09971d97" alt="Appwrite Cloud Card" />
@@ -35,4 +35,4 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=Francis-Mwaniki&icon=2&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
