@@ -4,11 +4,11 @@
 
 
 # 💫 About Me:
-🔭 Working on innovative projects
-👯 Seeking open-source collaborations  
-🤝 Passionate about continuous learning
-🌱 Exploring emerging technologies
-💬 Skilled in Nuxt3, NextJS, Vue, Supabase
+🔭 Working on innovative projects<br>
+👯 Seeking open-source collaborations<br>  
+🤝 Passionate about continuous learning<br>
+🌱 Exploring emerging technologies<br>
+💬 Skilled in Nuxt3, NextJS, Vue, Supabase<br>
 ⚡ **Fun fact:** I thrive in focused work environments as an introvert
 
 <a href="https://cloud.appwrite.io/card/6493f85b1fab09971d97">
