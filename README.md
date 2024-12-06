@@ -4,7 +4,12 @@
 
 
 # 💫 About Me:
-🔭 I’m currently working on something cool..<br>👯 I’m looking to collaborate on open source project<br>🤝 I’m looking for help with learning new things<br>🌱 I’m currently learning new tech<br>💬 Ask me about nuxt3,nextjs, vue,supabase and more tech related stuffs<br>⚡ Fun fact -i'm an introvert
+🔭 Working on innovative projects
+👯 Seeking open-source collaborations  
+🤝 Passionate about continuous learning
+🌱 Exploring emerging technologies
+💬 Skilled in Nuxt3, NextJS, Vue, Supabase
+⚡ **Fun fact:** I thrive in focused work environments as an introvert
 
 <a href="https://cloud.appwrite.io/card/6493f85b1fab09971d97">
 	<img width="350" src="https://cloud.appwrite.io/v1/cards/cloud?userId=6493f85b1fab09971d97" alt="Appwrite Cloud Card" />
